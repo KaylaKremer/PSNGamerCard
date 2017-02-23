@@ -1,0 +1,14 @@
+{
+  "name": "psn-profile",
+  "version": "1.0.0",
+  "description": "Generates PSN profile with Node.js and PSNjs npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kayla Kremer",
+  "license": "MIT",
+  "dependencies": {
+    "PSNjs": "^0.1.2"
+  }
+}
