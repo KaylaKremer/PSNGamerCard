@@ -46,7 +46,7 @@ function psnProfile(username) {
                     <a href="https://www.playstation.com/en-us/network/"><img src="images/psn.png" alt="Playstation Network" id="logo" /></a>
                 </div>
             
-            <h1 id="name">Title goes here</h1>
+            <h1 id="name">Real name (or any title you want) goes here</h1>
 
             <a href="https://my.playstation.com/${profile.id}"><img src="${profile.avatar}" alt="Avatar" id="avatar"></a>
         
