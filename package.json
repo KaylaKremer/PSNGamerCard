@@ -1,7 +1,7 @@
 {
-  "name": "psn-profile",
+  "name": "psn-gamer-card",
   "version": "1.0.0",
-  "description": "Generates PSN profile with Node.js and PSNjs npm",
+  "description": "Generates PSN gamer card with Node.js and PSNjs npm",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
