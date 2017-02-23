@@ -73,7 +73,7 @@ function psnProfile(username) {
     //Writes the HTML to index.html       
     fs.writeFile("index.html", contentHTML, error => {
         if (error) {
-            throw error
+            console.log(error.message);
         };
         console.log("Finished!");
         });
